@@ -1,0 +1,19 @@
+{
+  "name": "arrays_skillfactory",
+  "version": "1.0.0",
+  "description": "Учебный проект для Skillfactory - функции для работы с массивами",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trokne/arrays_skillfactory.git"
+  },
+  "author": "Mikhail Vshivkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trokne/arrays_skillfactory/issues"
+  },
+  "homepage": "https://github.com/Trokne/arrays_skillfactory#readme"
+}
